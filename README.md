@@ -12,13 +12,13 @@ The goal of this component is to predict passenger survival using machine learni
 Steps Taken:
 ### Data Cleaning & Preprocessing:
 
-Dropping irrelevant columns
-Handled missing values.
-Outliers handling
-Normalization od numerical columns
-Converted categorical data into numerical format.
-Scaled numerical features for better model performance.
-Model Training:
+📌 Dropping irrelevant columns
+📌 Handled missing values.
+📌 Outliers handling
+📌 Normalization od numerical columns
+📌 Converted categorical data into numerical format.
+📌 Scaled numerical features for better model performance.
+📌 Model Training:
 
 Used the Logistic Regression model to classify passengers as survived (1) or not survived (0).
 Evaluated model performance using accuracy metrics.
@@ -37,17 +37,22 @@ To create a visual representation of Titanic passenger data to understand trends
 Data Preprocessing (Using Python):
 
 ### Cleaned and formatted data specifically for visualization.
-Dropped unnecessary columns
-Handled missing values and transformed data types.
-Feature engineering
-Saved the processed dataset for Power BI.
-Dashboard Creation (Using Power BI):
+📌 Dropped unnecessary columns
+📌 Handled missing values and transformed data types.
+📌 Feature engineering
+📌 Saved the processed dataset for Power BI.
+📌 Dashboard Creation (Using Power BI):
 
 Designed interactive charts and graphs to explore survival rates, fares, passenger demographics, and more.
 Used bar charts, pie charts, and histograms to present insights clearly.
 Files:
 📄 Titanic_preprocessed_Data.ipynb → Contains the data cleaning and preprocessing code used for the Power BI dashboard.
 🖼️ Titanic_Dashboard.png → Screenshot of the final Power BI dashboard.
+
+# 🛠 Tools & Techniques Used
+
+🔸 Python (for data preprocessing and machine learning)
+🔸 Power BI → Interactive dashboard for exploratory data analysis
 
 Dataset Source:
 Kaggle Titanic Dataset
