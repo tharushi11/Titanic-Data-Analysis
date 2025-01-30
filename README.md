@@ -54,7 +54,7 @@ Files:
 🔸 Python (for data preprocessing and machine learning)
 🔸 Power BI → Interactive dashboard for exploratory data analysis
 
-Dataset Source:
+### Dataset Source:
 Kaggle Titanic Dataset
 
 This project provides both a predictive model and a visual analysis of Titanic passengers. Feel free to explore, modify, and contribute! 🚢
